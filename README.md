@@ -16,6 +16,6 @@ Note: If the notebook fails to open, please use [this link](https://nbviewer.jup
 
 <img src="figs/surv-anal-methods-scheme.jpg" width="500">
 
-<img src="figs/SHAP_val_distrib_for_each_feature.png" width="350"> | <img src="figs/impact_of_each_feature_for_selected_patient.JPG" width="600">
+<img src="figs/SHAP_val_distrib_for_each_feature.png" width="350"> | <img src="figs/impact_of_each_feature_for_selected_patient.JPG" width="650">
 
 

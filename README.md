@@ -8,3 +8,8 @@ Davide Chicco, Giuseppe Jurman: Machine learning can predict survival of patient
 Dataset can be shared and used freely under license Attribution 4.0 International (CC BY 4.0).
 
 Note: If the notebook fails to open, please use [this link](https://nbviewer.jupyter.org/github/ErezWasserman/Heart-Failure-Prediction/blob/main/Heart%20Failure%20Survival%20Analysis%20and%20Mortality%20Prediction.ipynb?flush_cache=true).
+
+
+<img src="figs/SHAP_val_distrib_for_each_feature.png" width="200"> | <img src="figs/SHAP_val_distrib_for_each_feature.png" width="350" >
+
+<img src="figs/SHAP_val_distrib_for_each_feature.png" width="350"> | <img src="figs/SHAP_val_distrib_for_each_feature.png" width="350" >

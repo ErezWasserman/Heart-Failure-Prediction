@@ -10,7 +10,7 @@ Dataset can be shared and used freely under license Attribution 4.0 Internationa
 Note: If the notebook fails to open, please use [this link](https://nbviewer.jupyter.org/github/ErezWasserman/Heart-Failure-Prediction/blob/main/Heart%20Failure%20Survival%20Analysis%20and%20Mortality%20Prediction.ipynb?flush_cache=true).
 
 
-<img src="figs/features_correlations.png" width="350"> | <img src="figs/coef_vals_for_features_w_95-CIs.png" width="450">
+<img src="figs/features_correlations.png" width="400"> | <img src="figs/coef_vals_for_features_w_95-CIs.png" width="500">
 
 <img src="figs/events_time_distribution.png" width="450"> | <img src="figs/survival_rates_blood_press_cohorts.png" width="350">
 
